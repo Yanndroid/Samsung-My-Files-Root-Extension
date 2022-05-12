@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.samsung.android.app.networkstoragemanager",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 2000000000,
+      "versionName": "[root]",
+      "outputFile": "app-release.apk"
+    }
+  ],
+  "elementType": "File"
+}
